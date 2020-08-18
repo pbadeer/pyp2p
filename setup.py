@@ -28,7 +28,8 @@ setup(
         'twisted>=15.4.0',
         'ipaddress>=1.0.14',
         'requests>=2.8.1',
-        'pyroute2>=0.3.15'
+        'pyroute2>=0.3.15',
+        'future>=0.18.2'
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
